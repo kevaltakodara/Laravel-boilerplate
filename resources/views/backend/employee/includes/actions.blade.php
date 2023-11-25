@@ -1,0 +1,1 @@
+<x-utils.view-button extraClass="view-employee-details" dataValue="{{ $row->id }}" />
